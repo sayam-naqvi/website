@@ -1,0 +1,54 @@
+.navbar{
+    background-color : #FFAB00 !important;
+}
+.nav-link{
+    color : #fff !important;
+}
+.fa{
+    color : #fff !important;
+    font-size  : 32px !important;
+    cursor: pointer !important;
+}
+.bk{
+    text-align: center;
+    margin-top: 20px;
+    box-shadow: 2px 4px 5px grey;
+    text-shadow: 2px 2px 4px grey;
+
+}
+.fa-angle-double-down,.fa-angle-double-up,.fa-angle-double-left,.fa-angle-double-right{
+    color : #E65100 !important; 
+}
+.bm{
+    text-align: center;
+    margin-top: 20px;
+    box-shadow: 4px 8px 10px grey;
+    text-shadow: 2px 2px 4px grey;
+
+}
+.btn-primary{
+    width : 100% !important;
+}
+.fa-thumbs-up,.fa-headphones,.fa-hourglass-half,.fa-heart,.fa-map-marker,.fa-envelope-o,.fa-phone,.fa-mobile,.fa-globe,.fa-facebook-official,.fa-twitter,.fa-instagram,.fa-youtube,.fa-whatsapp{
+    color : black !important;
+    margin : 0px 20px !important; 
+}
+
+.btn-primary-extra{
+    width : 100px !important;
+}
+.back{
+    border : 1px solid grey !important;
+    box-shadow:  box-shadow: 2px 4px 5px grey !important;
+    border-radius : 10px !important;
+    margin : 10px 0px 10px 0px !important;
+       
+}
+.fa-extra,.fa-map-marker{
+    font-size: 18px !important;
+    margin: 10px !important;
+}
+.fa-map-marker{
+    font-size: 20px !important;
+    margin: 3px !important;
+}
